@@ -3,8 +3,12 @@
   background-size: cover !important;
 }
 
-header {
+header, footer {
   background-color: #001233;
+}
+
+body {
+  background-color: #d0d2d9;
 }
 
 .card {
@@ -14,5 +18,10 @@ header {
 
 .breadcrumb {
   background-color: #001845;
+}
+
+footer {
+  height: 200px;
+  color: #ffffff;
 }
 /*# sourceMappingURL=style.css.map */

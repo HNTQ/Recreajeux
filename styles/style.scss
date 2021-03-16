@@ -1,19 +1,19 @@
 /*1 color https://coolors.co/0466c8-0353a4-023e7d-002855-001845-001233-33415c-5c677d-7d8597-979dac */
 $primary: #001233;
 $secondary: #001845;
-$body: #7d8597;
+$body: #979dac;
 $white: #ffffff;
 
 .bg-cover {
     background-size: cover !important;
 }
 
-.navbar{
+header, footer{
     background-color: $primary;
 }
 
 body{
-    background-color: $body;
+    background-color: lighten($body,20%);
 }
 .card{
     background-color: $secondary;
@@ -21,4 +21,9 @@ body{
 }
 .breadcrumb{
     background-color: $secondary;
+}
+
+footer{
+    height: 200px;
+    color: $white;
 }
