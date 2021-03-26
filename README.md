@@ -1,6 +1,8 @@
 Evaluation Numero 1 de ma formation (HTML, CSS, Bootstrap)
 
 Intitulé: 
-Un site internet présente de nombreux intérêts pour une association, surtout en termes de visibilité (c’est à vous de choisir une association, qu’elle soit réelle ou fictive, l’important sera votre code).Le site devra au minimum contenir 2 pages :
-• Une page relative à l’association.
-• Une page publicitaire des événements à l'échelle national (Vous choisissez le thème de l’événement, ladate, les détails).
+Un site internet présente de nombreux intérêts pour une association, surtout en termes de visibilité (c’est à vous de choisir une association, qu’elle soit réelle ou fictive, l’important sera votre code).Le site devra au minimum contenir 2 pages :  
+• Une page relative à l’association.  
+• Une page publicitaire des événements à l'échelle national (Vous choisissez le thème de l’événement, ladate, les détails).  
+  
+version déployée: http://assosciences.thecherrytree.icu/
